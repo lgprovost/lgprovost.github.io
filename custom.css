@@ -54,34 +54,9 @@ p.lead {
   font-size: 1.5rem;
 }
 
-.social-icons a {
-  display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057;
-  color: #fff !important;
-  border-radius: 100%;
-  text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.5rem;
-  margin-right: 1rem;
-}
 
-.social-icons a:last-child {
-  margin-right: 0;
-}
 
-.social-icons a:hover {
-  background-color: #BD5D38;
-}
 
-.dev-icons {
-  font-size: 3rem;
-}
-
-.dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
-}
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
@@ -160,17 +135,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 #education {
-  margin-top: -10rem;
-  margin-bottom: -10rem;
+  margin-top: -25rem;
+  margin-bottom: -25rem;
 }
 #affiliations {
-  margin-top: -15rem;
-  margin-bottom: -15rem;
+  margin-top: -25rem;
+  margin-bottom: -25rem;
 }
 
 #interests {
-  margin-top: -15rem;
-  margin-bottom: -15rem;
+  margin-top: -25rem;
+  margin-bottom: -25rem;
 }
 .bg-primary {
   background-color:#bd5d38!important;
@@ -187,3 +162,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+.highlights {
+  padding-top: -10rem;
+}
+
+
