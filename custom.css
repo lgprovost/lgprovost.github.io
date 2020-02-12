@@ -142,17 +142,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 #education {
-  margin-top: -10rem;
-  margin-bottom: -10rem;
+  margin-top: -rem;
+  margin-bottom: -rem;
 }
 #affiliations {
-  margin-top: -10rem;
-  margin-bottom: -10rem;
+  margin-top: -rem;
+  margin-bottom: -rem;
 }
 
 #interests {
-  margin-top: -10rem;
-  margin-bottom: -10rem;
+  margin-top: -rem;
+  margin-bottom: -rem;
 }
 .bg-primary {
   background-color:#bd5d38!important;
