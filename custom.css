@@ -17,6 +17,12 @@ body {
   }
 }
 
+@media (min-width: 992px) {
+  .lukegprovost{width: 2rem;
+
+  } 
+}
+
 h1,
 h2,
 h3,
