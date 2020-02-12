@@ -141,19 +141,6 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-#education {
-  margin-top: -rem;
-  margin-bottom: -rem;
-}
-#affiliations {
-  margin-top: -rem;
-  margin-bottom: -rem;
-}
-
-#interests {
-  margin-top: -rem;
-  margin-bottom: -rem;
-}
 .bg-primary {
   background-color:#bd5d38!important;
 }
